@@ -5,9 +5,9 @@
 
 # 📚 E-Book Library Summary
 
-- **Total Books**: 531
-- **Total Folders**: 87
-- **Total Library Size**: 5.19 GB
+- **Total Books**: 537
+- **Total Folders**: 89
+- **Total Library Size**: 5.30 GB
 - **Book List**: The following is the directory structure of available books. You can click on each book to download it directly from GitHub.
     
 
@@ -103,6 +103,9 @@
     ├── 📄 <a href='Computer%20Principles/%D9%85%D8%AD%D8%A7%D8%B6%D8%B1%D8%A9%20word.pdf'>محاضرة word.pdf</a> - Size: 6.79 MB
     ├── 📄 <a href='Computer%20Principles/%D9%85%D8%AD%D8%B6%D8%B1%D8%A9%20powerpoint.pdf'>محضرة powerpoint.pdf</a> - Size: 5.03 MB
     ├── 📄 <a href='Computer%20Principles/%D9%86%D8%B8%D8%A7%D9%85%20%D8%A7%D9%84%D9%85%D9%84%D9%81%D8%A7%D8%AA.pdf'>نظام الملفات.pdf</a> - Size: 0.20 MB
+</details>
+<details><summary>📂 Computer Vesion (1 files, 33.04 MB)</summary>
+    ├── 📄 <a href='Computer%20Vesion/Simply_OpenCV.zip'>Simply_OpenCV.zip</a> - Size: 33.04 MB
 </details>
 <details><summary>📂 Cyber Security (15 files, 157.25 MB)</summary>
     ├── 📄 <a href='Cyber%20Security/002%20CompTIA-Security-601-Study-Guide.pdf'>002 CompTIA-Security-601-Study-Guide.pdf</a> - Size: 22.89 MB
@@ -369,6 +372,9 @@
     ├── 📄 <a href='Matlab/%D8%A7%D9%84%D9%85%D8%A7%D8%AA%D9%84%D8%A7%D8%A8.pdf'>الماتلاب.pdf</a> - Size: 8.83 MB
     ├── 📄 <a href='Matlab/%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D9%85%D8%A7%D8%AA%D9%84%D8%A7%D8%A8%20%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AB%20%D9%84%D8%AC%D9%85%D9%8A%D8%B9%20%D8%A7%D9%84%D8%AA%D8%AE%D8%B5%D8%B5%D8%A7%D8%AA%20%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D9%8A%D8%A92023.pdf'>كتاب الماتلاب الحديث لجميع التخصصات الهندسية2023.pdf</a> - Size: 9.12 MB
 </details>
+<details><summary>📂 Multimedia (1 files, 26.00 MB)</summary>
+    ├── 📄 <a href='Multimedia/Fundamentals_of_Multimedia_3rd_Editiion.pdf'>Fundamentals_of_Multimedia_3rd_Editiion.pdf</a> - Size: 26.00 MB
+</details>
 <details><summary>📂 Natural Languages Processing (1 files, 17.43 MB)</summary>
     ├── 📄 <a href='Natural%20Languages%20Processing/Natural%20Language%20Processing%20in%20Action.pdf'>Natural Language Processing in Action.pdf</a> - Size: 17.43 MB
 </details>
@@ -401,8 +407,10 @@
     ├── 📄 <a href='Numerical%20Analysis/Math%20Terms%20in%20English.txt'>Math Terms in English.txt</a> - Size: 0.02 MB
     ├── 📄 <a href='Numerical%20Analysis/Numerical-Analysis%20DAMASCUS%20UNIVERSITY.pdf'>Numerical-Analysis DAMASCUS UNIVERSITY.pdf</a> - Size: 41.82 MB
 </details>
-<details><summary>📂 Operating Systems (1 files, 8.87 MB)</summary>
+<details><summary>📂 Operating Systems (3 files, 45.21 MB)</summary>
+    ├── 📄 <a href='Operating%20Systems/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf'>Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf</a> - Size: 29.69 MB
     ├── 📄 <a href='Operating%20Systems/Modern.Operating.Systems.pdf'>Modern.Operating.Systems.pdf</a> - Size: 8.87 MB
+    ├── 📄 <a href='Operating%20Systems/%D9%85%D9%81%D8%A7%D9%87%D9%8A%D9%85%20%D9%86%D8%B8%D9%85%20%D8%A7%D9%84%D8%AA%D8%B4%D8%BA%D9%8A%D9%84.pdf'>مفاهيم نظم التشغيل.pdf</a> - Size: 6.64 MB
 </details>
 <details><summary>📂 Operations Research (5 files, 93.73 MB)</summary>
     ├── 📄 <a href='Operations%20Research/Introduction%20to%20Operations%20Research%209th%20edition.pdf'>Introduction to Operations Research 9th edition.pdf</a> - Size: 18.19 MB
@@ -613,15 +621,17 @@
     ├── 📄 <a href='React.js/full-stack-react-typescript-node.pdf'>full-stack-react-typescript-node.pdf</a> - Size: 23.75 MB
     ├── 📄 <a href='React.js/fullstack-react-30-days-of-react-2017.pdf'>fullstack-react-30-days-of-react-2017.pdf</a> - Size: 30.81 MB
 </details>
-<details><summary>📂 Relegion (11 files, 167.72 MB)</summary>
+<details><summary>📂 Relegion (13 files, 179.39 MB)</summary>
     ├── 📄 <a href='Relegion/Noor-Book.com%20%20%D8%A7%D9%84%D8%AF%D8%A7%D8%A1%20%D9%88%D8%A7%D9%84%D8%AF%D9%88%D8%A7%D8%A1.pdf'>Noor-Book.com  الداء والدواء.pdf</a> - Size: 11.57 MB
     ├── 📄 <a href='Relegion/%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85%20%D9%88%20%D9%85%D8%B4%D9%83%D9%84%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B4%D8%A8%D8%A7%D8%A8.pdf'>الاسلام و مشكلات الشباب.pdf</a> - Size: 0.38 MB
     ├── 📄 <a href='Relegion/%D8%A7%D9%84%D8%A8%D8%B1%D9%87%D8%A7%D9%86%20%D8%A7%D9%84%D9%85%D8%A4%D9%8A%D8%AF.pdf'>البرهان المؤيد.pdf</a> - Size: 0.62 MB
+    ├── 📄 <a href='Relegion/%D8%A7%D9%84%D8%AA%D8%B1%D9%8A%D9%8A%D8%A9%20%D8%A7%D9%84%D8%AC%D9%87%D8%A7%D8%AF%D9%8A%D8%A9.pdf'>التريية الجهادية.pdf</a> - Size: 3.99 MB
     ├── 📄 <a href='Relegion/%D8%A7%D9%84%D9%88%D8%AC%D9%8A%D8%B2%20%D9%81%D9%8A%20%D8%A7%D8%B5%D9%88%D9%84%20%D8%A7%D9%84%D9%81%D9%82%D9%87.pdf'>الوجيز في اصول الفقه.pdf</a> - Size: 4.06 MB
     ├── 📄 <a href='Relegion/%D8%AA%D9%81%D8%B3%D9%8A%D8%B1%20%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86%20%D8%A7%D9%84%D8%B9%D8%B8%D9%8A%D9%85%20%D8%AA%D9%81%D8%B3%D9%8A%D8%B1%20%D8%A7%D8%A8%D9%86%20%D9%83%D8%AB%D9%8A%D8%B1.pdf'>تفسير القرآن العظيم تفسير ابن كثير.pdf</a> - Size: 68.34 MB
     ├── 📄 <a href='Relegion/%D8%AA%D9%86%D9%88%D9%8A%D8%B1%20%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D9%84%D9%83%20%D8%A8%D8%B4%D8%B1%D8%AD%20%D9%88%D8%A3%D8%AF%D9%84%D8%A9%20%D8%B9%D9%85%D8%AF%D8%A9%20%D8%A7%D9%84%D8%B3%D8%A7%D9%84%D9%83%20%D9%88%D8%B9%D8%AF%D8%A9%20%D8%A7%D9%84%D9%86%D8%A7%D8%B3%D9%83.pdf'>تنوير المسالك بشرح وأدلة عمدة السالك وعدة الناسك.pdf</a> - Size: 24.80 MB
     ├── 📄 <a href='Relegion/%D8%AD%D8%B1%D9%8A%D8%A9%20%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86%20%D9%81%D9%8A%20%D8%B8%D9%84%20%D8%B9%D8%A8%D9%88%D8%AF%D9%8A%D8%AA%D9%87%20%D9%84%D9%84%D9%87%203%20.pdf'>حرية الإنسان في ظل عبوديته لله 3 .pdf</a> - Size: 1.52 MB
     ├── 📄 <a href='Relegion/%D8%B1%D8%AD%D9%84%D8%AA%D9%89%20%D9%85%D9%86%20%D8%A7%D9%84%D8%B4%D9%83%20%D8%A7%D9%84%D9%89%20%D8%A7%D9%84%D8%A7%D9%8A%D9%85%D8%A7%D9%86.pdf'>رحلتى من الشك الى الايمان.pdf</a> - Size: 1.54 MB
+    ├── 📄 <a href='Relegion/%D8%B1%D8%B3%D8%A7%D8%A6%D9%84-%D9%85%D9%86-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86.pdf'>رسائل-من-القران.pdf</a> - Size: 7.67 MB
     ├── 📄 <a href='Relegion/%D8%B3%D9%8A%D8%AF%D9%86%D8%A7%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B1%D8%B3%D9%88%D9%84%20%D8%A7%D9%84%D9%84%D9%87.pdf'>سيدنا محمد رسول الله.pdf</a> - Size: 49.00 MB
     ├── 📄 <a href='Relegion/%D9%81%D8%A7%D8%AA%D8%AA%D9%86%D9%89%20%D8%B5%D9%84%D8%A7%D8%A9.pdf'>فاتتنى صلاة.pdf</a> - Size: 2.33 MB
     ├── 📄 <a href='Relegion/%D9%84%D8%A7%D9%86%D9%83%20%D8%A7%D9%84%D9%84%D9%87%20%D8%B1%D8%AD%D9%84%D8%A9%20%D8%A7%D9%84%D9%89%20%D8%A7%D9%84%D8%B3%D9%85%D8%A7%D8%A1%20%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D8%B9%D8%A9%202%20.pdf'>لانك الله رحلة الى السماء السابعة 2 .pdf</a> - Size: 3.57 MB
