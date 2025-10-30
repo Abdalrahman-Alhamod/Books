@@ -5,9 +5,9 @@
 
 # 📚 E-Book Library Summary
 
-- **Total Books**: 557
+- **Total Books**: 558
 - **Total Folders**: 91
-- **Total Library Size**: 5.51 GB
+- **Total Library Size**: 5.53 GB
 - **Book List**: The following is the directory structure of available books. You can click on each book to download it directly from GitHub.
     
 
@@ -105,8 +105,9 @@
     ├── 📄 <a href='Computer%20Principles/%D9%85%D8%AD%D8%B6%D8%B1%D8%A9%20powerpoint.pdf'>محضرة powerpoint.pdf</a> - Size: 5.03 MB
     ├── 📄 <a href='Computer%20Principles/%D9%86%D8%B8%D8%A7%D9%85%20%D8%A7%D9%84%D9%85%D9%84%D9%81%D8%A7%D8%AA.pdf'>نظام الملفات.pdf</a> - Size: 0.20 MB
 </details>
-<details><summary>📂 Computer Vision (2 files, 74.23 MB)</summary>
+<details><summary>📂 Computer Vision (3 files, 93.13 MB)</summary>
     ├── 📄 <a href='Computer%20Vision/Computer%20Vision%20-%20Algorithms%20and%20Applications%202nd%20Edition%2C%20Richard%20Szeliski.pdf'>Computer Vision - Algorithms and Applications 2nd Edition, Richard Szeliski.pdf</a> - Size: 41.19 MB
+    ├── 📄 <a href='Computer%20Vision/Computer%20Vision%20Algorithms%20and%20Applications%202022-compressed.pdf'>Computer Vision Algorithms and Applications 2022-compressed.pdf</a> - Size: 18.90 MB
     ├── 📄 <a href='Computer%20Vision/Simply_OpenCV.zip'>Simply_OpenCV.zip</a> - Size: 33.04 MB
 </details>
 <details><summary>📂 Cyber Security (15 files, 157.25 MB)</summary>
